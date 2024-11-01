@@ -1,0 +1,2279 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Void Mail Scraper\n"
+"POT-Creation-Date: 2017-12-16 02:40+0600\n"
+"PO-Revision-Date: 2017-12-16 02:38+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-void-mail-scraper.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-wp-void-mail-admin-menu.php:73
+#: admin/class-wp-void-mail-admin-menu.php:74
+#: admin/class-wp-void-mail-menu-items.php:29
+#: admin/class-wp-void-mail-menu-items.php:30
+#: admin/class-wp-void-mail-menu-items.php:44
+#: admin/class-wp-void-mail-menu-items.php:45
+#: admin/class-wp-void-mail-sub-menu-items.php:63
+#: admin/class-wp-void-mail-sub-menu-items.php:64
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:118
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:130
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:142
+#: includes/class-wp-void-mail-menu-items.php:28
+#: includes/class-wp-void-mail-menu-items.php:29
+#: includes/class-wp-void-mail-menu-items.php:43
+#: includes/class-wp-void-mail-menu-items.php:44
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/adapter/call.php:114
+#, php-format
+msgid "%s is not a test adapter"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/adapter/call.php:179
+#, php-format
+msgid "%s is called 0 time"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/adapter/call.php:197
+#, php-format
+msgid "%s is called %d time instead of %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/adapter/call.php:206
+#, php-format
+msgid "%s before %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/adapter/call.php:216
+#, php-format
+msgid "%s after %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/adapter/call.php:280
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/adapter.php:916
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/adapter.php:930
+#, php-format
+msgid "%s is not called before %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/adapter/call.php:298
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/adapter.php:1014
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/adapter.php:1028
+#, php-format
+msgid "%s is not called after %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/boolean.php:26
+#, php-format
+msgid "%s is not a boolean"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/boolean.php:34
+#, php-format
+msgid "%s is not true"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/boolean.php:39
+#, php-format
+msgid "%s is not false"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/castToArray.php:58
+#, php-format
+msgid "%s could not be converted to array"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/castToString.php:13
+#: admin/vendor/atoum/atoum/classes/asserters/phpObject.php:33
+#, php-format
+msgid "%s is not an object"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/constant.php:84
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:137
+#, php-format
+msgid "%s is not equal to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateInterval.php:33
+#, php-format
+msgid "%s is not an instance of \\dateInterval"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateInterval.php:47
+#, php-format
+msgid "Interval %s is not greater than %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateInterval.php:60
+#, php-format
+msgid "Interval %s is not greater than or equal to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateInterval.php:73
+#, php-format
+msgid "Interval %s is not less than %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateInterval.php:86
+#, php-format
+msgid "Interval %s is not less than or equal to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateInterval.php:99
+#, php-format
+msgid "Interval %s is not equal to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateInterval.php:107
+#, php-format
+msgid "Interval %s is not equal to zero"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateInterval.php:136
+msgid "%Y/%M/%D %H:%I:%S"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:28
+#, php-format
+msgid "%s is not an instance of \\dateTime"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:40
+#, php-format
+msgid "Timezone is %s instead of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:51
+#, php-format
+msgid "Year is %s instead of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:62
+#, php-format
+msgid "Month is %s instead of %02d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:73
+#, php-format
+msgid "Day is %s instead of %02d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:84
+#, php-format
+msgid "Date is %s instead of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:95
+#, php-format
+msgid "Hours are %s instead of %02d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:106
+#, php-format
+msgid "Minutes are %s instead of %02d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:117
+#, php-format
+msgid "Seconds are %s instead of %02d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:128
+#, php-format
+msgid "Time is %s instead of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:139
+#, php-format
+msgid "Datetime is %s instead of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/dateTime.php:148
+#, php-format
+msgid "%s is not immutable"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/error.php:206
+#, php-format
+msgid "error %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/error.php:209
+#, php-format
+msgid "error with message '%s' %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/error.php:212
+#, php-format
+msgid "error of type %s %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/error.php:215
+#, php-format
+msgid "error of type %s with message '%s' %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/exception.php:50
+#, php-format
+msgid "%s is not an exception"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/exception.php:79
+#, php-format
+msgid "code is %s instead of 0"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/exception.php:90
+#, php-format
+msgid "code is %s instead of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/exception.php:101
+#, php-format
+msgid "message '%s' is not identical to '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/exception.php:114
+msgid "exception does not contain any nested exception"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/exception.php:114
+msgid "exception does not contain this nested exception"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/extension.php:65
+#, php-format
+msgid "PHP extension '%s' is not loaded"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/generator.php:56
+#, php-format
+msgid "%s is not a generator"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/hash.php:44
+#, php-format
+msgid "%s does not match given pattern"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/hash.php:46
+#, php-format
+msgid "%s should be a string of %d characters"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/integer.php:53
+#, php-format
+msgid "%s is not an integer"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/integer.php:69
+#, php-format
+msgid "%s is not greater than %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/integer.php:80
+#, php-format
+msgid "%s is not greater than or equal to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/integer.php:91
+#, php-format
+msgid "%s is not less than %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/integer.php:102
+#, php-format
+msgid "%s is not less than or equal to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/iterator.php:30
+#, php-format
+msgid "%s is not an iterator"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/iterator.php:44
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:171
+#: admin/vendor/atoum/atoum/classes/asserters/phpObject.php:75
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/phpObject.php:81
+#, php-format
+msgid "%s has size %d, expected size %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/iterator.php:55
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:182
+#, php-format
+msgid "%s is not empty"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/iterator.php:66
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:193
+#, php-format
+msgid "%s is empty"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/mock.php:13
+#, php-format
+msgid "%s is not a mock"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/mock.php:33
+#, php-format
+msgid "%s is not called"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/mock.php:44
+#, php-format
+msgid "%s is called"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/mysqlDateTime.php:19
+#, php-format
+msgid "%s is not in format Y-m-d H:i:s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:97
+#, php-format
+msgid "Value %s at key %s is not an array"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:101
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:255
+#, php-format
+msgid "%s has no key %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:142
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:159
+#, php-format
+msgid "%s is not an array"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:231
+#, php-format
+msgid "%s has no keys %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:244
+#, php-format
+msgid "%s has keys %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:266
+#, php-format
+msgid "%s has key %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:340
+#, php-format
+msgid "%s does not contain %s at key %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:342
+#, php-format
+msgid "%s does not strictly contain %s at key %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:352
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:138
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:81
+#, php-format
+msgid "%s does not contain %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:354
+#, php-format
+msgid "%s does not strictly contain %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:372
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:147
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:90
+#, php-format
+msgid "%s contains %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:374
+#, php-format
+msgid "%s strictly contains %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:397
+#, php-format
+msgid "%s contains %s at key %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:399
+#, php-format
+msgid "%s strictly contains %s at key %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:420
+#, php-format
+msgid "%s does not contain values %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:422
+#, php-format
+msgid "%s does not contain strictly values %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:441
+#, php-format
+msgid "%s contains values %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpArray.php:443
+#, php-format
+msgid "%s contains strictly values %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:85
+#, php-format
+msgid "Class '%s' does not exist"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:100
+#, php-format
+msgid "%s is not the parent of class %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:111
+#, php-format
+msgid "%s has parent %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:123
+#, php-format
+msgid "%s does not extend %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:138
+#, php-format
+msgid "%s does not implement %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:152
+#, php-format
+msgid "%s is not abstract"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:163
+#, php-format
+msgid "%s is not final"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:174
+#, php-format
+msgid "%s::%s() does not exist"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpClass.php:183
+#, php-format
+msgid "%s::%s does not exist"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpFloat.php:14
+#, php-format
+msgid "%s is not a float"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpFloat.php:40
+#, php-format
+msgid "%s is not nearly equal to %s with epsilon %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpObject.php:50
+#, php-format
+msgid "%s is not an instance of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpObject.php:65
+#, php-format
+msgid "%s is an instance of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpObject.php:84
+#, php-format
+msgid "%s is not a clone of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpObject.php:95
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/phpObject.php:113
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/phpObject.php:123
+#, php-format
+msgid "%s has size %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpResource.php:14
+#, php-format
+msgid "%s is not a resource"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpResource.php:38
+#, php-format
+msgid "%s is not of type %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpResource.php:51
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:76
+#, php-format
+msgid "%s does not match %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:31
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:25
+#, php-format
+msgid "string(%s) '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:49
+#, php-format
+msgid "%s is not a string"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:58
+msgid "string is not empty"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:63
+msgid "string is empty"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:84
+msgid "strings are not equal"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:94
+#, php-format
+msgid "Unable to get contents of file %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:96
+#, php-format
+msgid "string is not equal to contents of file %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:105
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:48
+#, php-format
+msgid "length of %s is not %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:116
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:59
+#, php-format
+msgid "length of %s is not greater than %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:127
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:70
+#, php-format
+msgid "length of %s is not less than %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:160
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:103
+#, php-format
+msgid "%s does not start with %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:173
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:112
+#, php-format
+msgid "%s start with %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:184
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:125
+#, php-format
+msgid "%s does not end with %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/phpString.php:193
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:134
+#, php-format
+msgid "%s end with %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/stream.php:43
+#, php-format
+msgid "stream %s is not read"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/stream.php:54
+#, php-format
+msgid "stream %s is not written"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/utf8String.php:36
+#, php-format
+msgid "%s is not an UTF-8 string"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:148
+#, php-format
+msgid "%s is equal to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:159
+#, php-format
+msgid "%s is not identical to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:170
+#, php-format
+msgid "%s is identical to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:181
+#, php-format
+msgid "%s is not null"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:192
+#, php-format
+msgid "%s is null"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:208
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:219
+#, php-format
+msgid "%s is not a reference to %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:228
+#, php-format
+msgid "%s is false"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:233
+#, php-format
+msgid "%s is true"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:241
+#, php-format
+msgid "%s is not callable"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/asserters/variable.php:252
+#, php-format
+msgid "%s is callable"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/atoum/cli.php:27
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:155
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:227
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/atoum/cli.php:103
+#, php-format
+msgid "atoum version %s by %s (%s)"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/atoum/path/cli.php:32
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/php/path/cli.php:31
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/path/cli.php:111
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/path/cli.php:122
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/atoum/path/cli.php:33
+msgid "atoum path"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/atoum/phing.php:11
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/atoum/phing.php:103
+#, php-format
+msgid ""
+"Atoum version: %s \n"
+"Atoum path: %s \n"
+"Atoum author: %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/atoum/version/cli.php:33
+msgid "atoum version"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/cli.php:31
+msgid "Code coverage"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/cli.php:35
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/duration/cli.php:32
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/duration/phing.php:16
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/duration/cli.php:35
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/memory/cli.php:32
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/memory/phing.php:14
+#: admin/vendor/atoum/atoum/classes/report/fields/test/duration/cli.php:35
+#: admin/vendor/atoum/atoum/classes/report/fields/test/duration/phing.php:14
+#: admin/vendor/atoum/atoum/classes/report/fields/test/memory/cli.php:35
+#: admin/vendor/atoum/atoum/classes/report/fields/test/memory/phing.php:14
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:127
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:132
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:156
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:161
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:128
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:137
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:142
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:147
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:128
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:137
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:142
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:147
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:138
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:152
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:184
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:198
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/phing.php:137
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/phing.php:149
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/phing.php:177
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/phing.php:189
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:120
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:134
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:114
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:119
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:124
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:131
+#, php-format
+msgid "unknown"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/cli.php:37
+#, php-format
+msgid "%3.2f%%"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/html.php:229
+#, php-format
+msgid "Details of code coverage are available at %s."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/html.php:231
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/treemap.php:117
+#, php-format
+msgid "Unable to generate code coverage at %s: %s."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/treemap.php:100
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/treemap.php:111
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:394
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:406
+msgid "Unable to write in '"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/treemap.php:106
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:306
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:401
+msgid "Directory '"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/coverage/treemap.php:115
+#, php-format
+msgid "Treemap of code coverage are available at %s."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/duration/cli.php:30
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/duration/phing.php:14
+#: admin/vendor/atoum/atoum/classes/report/fields/test/duration/cli.php:30
+#: admin/vendor/atoum/atoum/classes/report/fields/test/memory/cli.php:30
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:118
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:132
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:146
+#, php-format
+msgid "%1$s: %2$s."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/duration/cli.php:31
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/duration/phing.php:15
+msgid "Running duration"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/duration/cli.php:32
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/duration/phing.php:16
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/duration/cli.php:35
+#: admin/vendor/atoum/atoum/classes/report/fields/test/duration/cli.php:38
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:137
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:143
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:166
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:172
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:166
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:212
+#, php-format
+msgid "%4.2f second"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:45
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:59
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:125
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/exceptions/cli.php:45
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/exceptions/cli.php:59
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/exceptions/cli.php:72
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/failures/cli.php:41
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/outputs/cli.php:45
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/blank/cli.php:41
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/skipped/cli.php:44
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/uncompleted/cli.php:45
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/uncompleted/cli.php:55
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:213
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:219
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:225
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:232
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:238
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:301
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:307
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:313
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:320
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:326
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:374
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:380
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:386
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:433
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:439
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:445
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:492
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:498
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:504
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:551
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:557
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:563
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:610
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:616
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:622
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:669
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:675
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:681
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:728
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:734
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:740
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/exceptions/cli.php:203
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/exceptions/cli.php:209
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/exceptions/cli.php:215
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/exceptions/cli.php:222
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/exceptions/cli.php:228
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:175
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:181
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:189
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:241
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:247
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:255
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:309
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:315
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:323
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/outputs/cli.php:206
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/outputs/cli.php:212
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/outputs/cli.php:220
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/outputs/cli.php:270
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/outputs/cli.php:276
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/outputs/cli.php:284
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/version/cli.php:134
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/version/cli.php:165
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/skipped/cli.php:166
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/uncompleted/cli.php:233
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/uncompleted/cli.php:239
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/uncompleted/cli.php:248
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/uncompleted/cli.php:260
+#, php-format
+msgid "%s:"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:46
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:214
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:302
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:375
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:434
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:493
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:552
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:611
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:670
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:729
+#, php-format
+msgid "There is %d error"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:78
+#, php-format
+msgid "Error %s in unknown file on unknown line%s, generated by unknown file"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:82
+#, php-format
+msgid "Error %s in unknown file on unknown line, generated by file %s%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:86
+#, php-format
+msgid ""
+"Error %s in unknown file on unknown line, generated by file %s on line %d%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:94
+#, php-format
+msgid "Error %s in %s on unknown line, generated by unknown file%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:98
+#, php-format
+msgid "Error %s in %s on unknown line, generated by file %s%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:102
+#, php-format
+msgid "Error %s in %s on unknown line, generated by file %s on line %d%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:110
+#, php-format
+msgid "Error %s in %s on line %d, generated by unknown file%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:114
+#, php-format
+msgid "Error %s in %s on line %d, generated by file %s%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/errors/cli.php:118
+#, php-format
+msgid "Error %s in %s on line %d, generated by file %s on line %d%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/exceptions/cli.php:46
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/exceptions/cli.php:204
+#, php-format
+msgid "There is %d exception"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/exceptions/cli.php:73
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/exceptions/cli.php:216
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/exceptions/cli.php:229
+#, php-format
+msgid "An exception has been thrown in file %s on line %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/failures/cli.php:42
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:176
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:242
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:310
+#, php-format
+msgid "There is %d failure"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/failures/cli.php:59
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:185
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:193
+#, php-format
+msgid "In file %s on line %d, %s failed: %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/failures/cli.php:63
+#, php-format
+msgid ""
+"In file %s on line %d, %s failed for data set [%s] of data provider %s: %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/failures/cli.php:67
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:251
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:259
+#, php-format
+msgid "In file %s on line %d in case '%s', %s failed: %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/failures/cli.php:71
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:319
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/failures/cli.php:327
+#, php-format
+msgid ""
+"In file %s on line %d in case '%s', %s failed for data set [%s] of data "
+"provider %s: %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/outputs/cli.php:46
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/outputs/cli.php:207
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/outputs/cli.php:271
+#, php-format
+msgid "There is %d output"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/outputs/cli.php:52
+#, php-format
+msgid "In %s::%s()"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/php/path/cli.php:32
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/path/cli.php:112
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/path/cli.php:123
+msgid "PHP path"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/php/version/cli.php:34
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/version/cli.php:135
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/version/cli.php:166
+msgid "PHP version"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:33
+msgid "No test running."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:37
+#, php-format
+msgid "Success (%s, %s, %s, %s, %s)!"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:38
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:50
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:32
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:42
+#, php-format
+msgid "%s test"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:39
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:51
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:33
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:43
+#, php-format
+msgid "%s/%s method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:40
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:52
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:34
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:44
+#, php-format
+msgid "%s void method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:41
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:53
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:35
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:45
+#, php-format
+msgid "%s skipped method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:42
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:36
+#, php-format
+msgid "%s assertion"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:49
+#, php-format
+msgid "Failure (%s, %s, %s, %s, %s, %s, %s, %s)!"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:54
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:46
+#, php-format
+msgid "%s uncompleted method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:55
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:47
+#, php-format
+msgid "%s failure"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:56
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:48
+#, php-format
+msgid "%s error"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/cli.php:57
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:49
+#, php-format
+msgid "%s exception"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:31
+#, php-format
+msgid "%s %s %s %s %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/result/notifier.php:41
+#, php-format
+msgid "%s %s %s %s %s %s %s %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/blank/cli.php:42
+#, php-format
+msgid "There is %d void method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:39
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:49
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:60
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:28
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:38
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/skipped/cli.php:51
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:249
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:256
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:263
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:267
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:274
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/skipped/cli.php:172
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/skipped/cli.php:179
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/skipped/cli.php:186
+#, php-format
+msgid "%s: %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:40
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:20
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:250
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:261
+msgid "Code coverage value"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:50
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:29
+msgid "Path coverage value"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:61
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:39
+msgid "Branch coverage value"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:78
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:96
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:56
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:73
+#, php-format
+msgid "%s: %s%s%s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:79
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:57
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:257
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:268
+#, php-format
+msgid "Class %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/cli.php:97
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:264
+#, php-format
+msgid "%s::%s()"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:19
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:260
+#, php-format
+msgid "%s : %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/coverage/phing.php:74
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:275
+#, php-format
+msgid "     ::%s()"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/duration/cli.php:31
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/memory/cli.php:37
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/memory/phing.php:16
+#, php-format
+msgid "%s: %s."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/duration/cli.php:32
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:127
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:132
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:142
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:156
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:161
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:171
+msgid "Total test duration"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/memory/cli.php:29
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/memory/phing.php:13
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:128
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:137
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:142
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:147
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:151
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:154
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:128
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:137
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:142
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:147
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:151
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:154
+msgid "Total test memory usage"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/memory/cli.php:34
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/memory/phing.php:14
+#: admin/vendor/atoum/atoum/classes/report/fields/test/memory/cli.php:38
+#: admin/vendor/atoum/atoum/classes/report/fields/test/memory/phing.php:14
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:151
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/cli.php:154
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:151
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/memory/phing.php:154
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:148
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:136
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/phing.php:143
+#, php-format
+msgid "%4.2f Mb"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/skipped/cli.php:45
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/skipped/cli.php:167
+#, php-format
+msgid "There is %d skipped method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/runner/tests/uncompleted/cli.php:46
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/uncompleted/cli.php:234
+#, php-format
+msgid "There is %d uncompleted method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/test/duration/cli.php:31
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:137
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:151
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:165
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:183
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:197
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/cli.php:211
+msgid "Test duration"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/test/duration/phing.php:13
+#: admin/vendor/atoum/atoum/classes/report/fields/test/memory/phing.php:13
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/test/duration/phing.php:14
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/phing.php:161
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/duration/phing.php:201
+#, php-format
+msgid "%4.2f s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/test/memory/cli.php:31
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:119
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:133
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:147
+msgid "Memory usage"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/test/run/cli.php:30
+#: admin/vendor/atoum/atoum/classes/report/fields/test/run/phing.php:11
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:151
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:154
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:157
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:160
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:163
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:166
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:169
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:172
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:175
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:178
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:181
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:184
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:151
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:154
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:157
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:160
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:163
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:166
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:169
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:172
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:175
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:178
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:181
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:184
+msgid "There is currently no test running."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/test/run/cli.php:32
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/cli.php:187
+#, php-format
+msgid "%s..."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/report/fields/test/run/phing.php:11
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/run/phing.php:187
+#, php-format
+msgid "%s : "
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/reports/asynchronous.php:33
+#: admin/vendor/atoum/atoum/classes/writers/mail.php:61
+msgid "Y-m-d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/reports/asynchronous.php:33
+#: admin/vendor/atoum/atoum/classes/writers/mail.php:61
+msgid "H:i:s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/reports/asynchronous.php:33
+msgid "FAIL"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/reports/asynchronous.php:33
+msgid "SUCCESS"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/runner.php:264
+#, php-format
+msgid "Unable to use bootstrap file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/runner.php:279
+#, php-format
+msgid "Unable to use autoloader file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/runner.php:887
+#: admin/vendor/atoum/atoum/classes/runner.php:892
+#, php-format
+msgid "Unable to add test file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/runner.php:899
+#, php-format
+msgid "Unable to generate test file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script.php:152
+#: admin/vendor/atoum/atoum/tests/units/classes/script.php:200
+msgid "Warning: "
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script.php:174
+#: admin/vendor/atoum/atoum/tests/units/classes/script.php:225
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/runner.php:948
+msgid "Error: "
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script.php:416
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/phar/generator.php:357
+#, php-format
+msgid "Usage: %s [options]"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script.php:437
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/phar/generator.php:358
+msgid "Available options are:"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script/configurable.php:114
+#: admin/vendor/atoum/atoum/classes/script/configurable.php:126
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:461
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:483
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:495
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:507
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:520
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:532
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:544
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:556
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:568
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:580
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:590
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:600
+#: admin/vendor/atoum/atoum/classes/scripts/compiler.php:59
+#: admin/vendor/atoum/atoum/classes/scripts/compiler.php:71
+#: admin/vendor/atoum/atoum/classes/scripts/compiler.php:83
+#: admin/vendor/atoum/atoum/classes/scripts/compiler.php:95
+#: admin/vendor/atoum/atoum/classes/scripts/coverage.php:92
+#: admin/vendor/atoum/atoum/classes/scripts/coverage.php:104
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:158
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:170
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:196
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:208
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:409
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:421
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:433
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:445
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:457
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:473
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:485
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:497
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:509
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:521
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:533
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:43
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:55
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:67
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:79
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:91
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:153
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:165
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:177
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:189
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:203
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:215
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:227
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:239
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:251
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:263
+#, php-format
+msgid "Bad usage of %s, do php %s --help for more informations"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script/configurable.php:121
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:50
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/phar/generator.php:359
+msgid "Display this help"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script/configurable.php:133
+#, php-format
+msgid "Configuration file '%s' does not exist"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script/configurable.php:139
+msgid "Use all configuration files <file>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/script/configurable.php:161
+#, php-format
+msgid "Unable to find configuration file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:466
+#, php-format
+msgid "Runner configuration file path '%s' is invalid"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:470
+#, php-format
+msgid "Unable to read runner configuration file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:478
+msgid "Use <file> as configuration file for runner"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:490
+msgid "Path to PHP binary"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:502
+msgid "Checkout file from repository in <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:514
+msgid "Save phar in <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:527
+msgid "Save score in <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:539
+msgid "Save errors in <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:551
+msgid "Url of repository"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:563
+msgid "Save last revision in <file>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:575
+msgid "Version <string> will be used as version name"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:624
+#, php-format
+msgid "A process has locked run file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:630
+#, php-format
+msgid "Unable to open run file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/builder.php:634
+#, php-format
+msgid "Unable to get exclusive lock on run file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/compiler.php:78
+msgid "Source directory <dir>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/compiler.php:90
+msgid "Destination file <file>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/compiler.php:102
+msgid "Bootstrap file <file>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/compiler.php:138
+#, php-format
+msgid "Unable to write in file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/coverage.php:99
+msgid "Coverage report format"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/coverage.php:111
+msgid "Coverage report output path"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:153
+msgid "Force execution by avoiding any confirmation"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:165
+msgid "<string> will be used as remote"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:177
+msgid "File <path> will be used to store last tag"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:185
+msgid "Tag a new major version"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:193
+msgid "Tag a new minor version"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:201
+msgid "Tag a new patch version"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:209
+msgid "Tag a new beta version"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/git/pusher.php:227
+#, php-format
+msgid "You are about to push the '%s' version. Type 'Y' to confirm."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:110
+msgid "Origin directory must be defined"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:114
+msgid "Destination directory must be defined"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:118
+msgid "Stub file must be defined"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:122
+#, php-format
+msgid "Origin directory '%s' is not readable"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:126
+#, php-format
+msgid "Destination directory '%s' is not writable"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:130
+#, php-format
+msgid "Stub file '%s' is not readable"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:140
+#, php-format
+msgid "ABOUT file is missing in '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:146
+#, php-format
+msgid "LICENSE file is missing in '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:152
+#, php-format
+msgid "Unable to read stub file '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/generator.php:215
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/phar/generator.php:360
+msgid "Destination directory <dir>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:41
+msgid "Available scripts are:"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:55
+#, php-format
+msgid "Script %s does not exist"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:78
+msgid "Signature"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:175
+msgid "Checking if a new version is available on Github..."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:188
+msgid "Checking if a new version is available Github... Done!"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:192
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:201
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:211
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:247
+msgid "There is no new version available!"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:237
+msgid "Checking if a new version is available..."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:243
+msgid "Checking if a new version is available... Done!"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:263
+#, php-format
+msgid "Update to version '%s'..."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:283
+#, php-format
+msgid "Update to version '%s'... Done!"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:288
+#, php-format
+msgid "Enable version '%s'..."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:297
+#, php-format
+msgid "Enable version '%s'... Done!"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:300
+#, php-format
+msgid "Atoum has been updated from version '%s' to '%s' successfully!"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:416
+msgid "Display informations, do not run any script"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:428
+msgid "Display phar signature, do not run any script"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:440
+msgid "Extract all file from phar to <directory>, do not run any script"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:452
+msgid "Extract resources from phar to <directory>, do not run any script"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:467
+msgid ""
+"Run script <script> from PHAR with <args> as arguments (this argument must "
+"be the first)"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:480
+msgid "List available scripts"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:492
+msgid "Update atoum"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:504
+msgid "Update atoum from github"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:516
+msgid "List available versions in the PHAR"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:528
+msgid "Enable version <version>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/phar/stub.php:540
+msgid "Delete version <version>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:612
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:615
+msgid "Default configuration file '"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:621
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:624
+msgid "Default bootstrap file '"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:756
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:768
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:798
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:810
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:822
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:834
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:846
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:858
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:873
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:888
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:903
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:918
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:930
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:942
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:954
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:966
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:978
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:990
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:999
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1012
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1027
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1039
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1052
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1064
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1076
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1089
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1102
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1118
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1134
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1146
+#, php-format
+msgid "Bad usage of %s, do php %s --help for more information"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:763
+msgid "Display version"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:781
+msgid "Enable verbose mode"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:793
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/coverage.php:58
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/coverage.php:246
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/runner.php:68
+#: admin/vendor/atoum/atoum/tests/units/classes/scripts/runner.php:245
+#, php-format
+msgid ""
+"Create configuration and bootstrap files in <path/to/directory> (Optional, "
+"default: %s)"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:805
+msgid "Path to PHP binary which must be used to run tests"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:817
+msgid "Define default report title with <string>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:829
+msgid "Save score in file <file>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:841
+msgid "Maximum number of sub-processus which will be run simultaneously"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:853
+msgid "Disable code coverage"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:868
+msgid "Disable code coverage in directories <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:883
+msgid "Disable code coverage for namespaces <namespace>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:898
+msgid "Disable code coverage for classes <class>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:913
+msgid "Disable code coverage for methods <method>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:925
+msgid "Enable branch and path coverage"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:937
+msgid "Execute all unit test files <file>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:949
+msgid "Execute unit test files in all <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:961
+msgid "Execute unit test files with one of extensions <extension>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:973
+msgid "Execute unit test files which match <pattern>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:985
+msgid "Execute only unit test with tags <tag>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1007
+msgid ""
+"Execute all <class::method>, * may be used as wildcard for class name or "
+"method name"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1022
+msgid "Execute all classes in all namespaces <namespace>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1034
+msgid "Execute tests in an infinite loop"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1059
+msgid "Execute atoum unit tests"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1071
+msgid "Force output as in terminal"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1083
+msgid "Include autoloader <file> before executing each test method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1096
+msgid "Include bootstrap <file> before executing each test method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1112
+msgid "Use \"light\" CLI report"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1128
+msgid "Use TAP report"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1141
+msgid "Enable debug mode"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1153
+msgid "Set XDEBUG_CONFIG variable"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1161
+msgid "Make the test suite fail if there is at least one void test method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1169
+msgid "Make the test suite fail if there is at least one skipped test method"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1196
+msgid "No test found"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1201
+msgid "Using no CLI argument…"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1203
+#, php-format
+msgid "Using %s CLI argument…"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1208
+#, php-format
+msgid "Using '%s' configuration file…"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1215
+#, php-format
+msgid "Using '%s' autoloader file…"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1221
+#, php-format
+msgid "Using '%s' bootstrap file…"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1225
+#, php-format
+msgid "Using '%s' autoloader cache file…"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1229
+#, php-format
+msgid "Using '%s' test file…"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1343
+#, php-format
+msgid "Usage: %s [path/to/test/file] [options]"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner.php:1369
+msgid "Unable to write '"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/runner/loopers/prompt.php:81
+msgid "Press <Enter> to reexecute, press any other key and <Enter> to stop..."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:62
+msgid "Use <string> as version value"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:74
+msgid "Use <regex> to set version in source files"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:86
+msgid "Use <directory> as source directory"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/tagger.php:98
+msgid "Save tagged files in <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:160
+msgid "Set project name <string>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:172
+msgid "Set project url <string>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:184
+msgid "Set code url <string>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:198
+msgid "Scan all directories <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:210
+msgid "Generate treemap in directory <directory>"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:222
+msgid "Generate only JSON file"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:234
+msgid "Count source line of code (SLOC)"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:246
+msgid "Count PHP tokens"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:258
+msgid "Get file size"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:270
+msgid "Use html files in <directory> to generate treemap"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:278
+msgid "Project name is undefined"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:282
+msgid "Directories are undefined"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:286
+msgid "Output directory is undefined"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/scripts/treemap.php:290
+msgid "Html directory is undefined"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/classes/writers/mail.php:61
+#, php-format
+msgid "Unit tests report, the %1$s at %2$s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/asserters/template/parser/exception.php:15
+#, php-format
+msgid "Line is %s instead of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/asserters/template/parser/exception.php:24
+#, php-format
+msgid "Offset is %s instead of %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/adapter.php:946
+#, php-format
+msgid "%s is called 1 time instead of 2 before %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/asserters/adapter.php:1043
+#, php-format
+msgid "%s is called 1 time instead of 2 after %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/locale.php:43
+#, php-format
+msgid "%s %s %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/locale.php:52
+#, php-format
+msgid "Singular %s %s %s"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/coverage/html.php:233
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/coverage/html.php:306
+#, php-format
+msgid "Code coverage: %3.2f%%."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:226
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:239
+#, php-format
+msgid "Error %s in %s on line %d, generated by file %s on line %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:314
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:327
+#, php-format
+msgid "Error %s in %s on line %d, generated by file %s on line %d in case '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:387
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:505
+#, php-format
+msgid ""
+"Error %s in unknown file on unknown line, generated by file %s on line %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:446
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:623
+#, php-format
+msgid ""
+"Error %s in unknown file on unknown line, generated by file %s on line %d in "
+"case '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:564
+#, php-format
+msgid "Error %s in %s on unknown line, generated by unknown file in case '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:682
+#, php-format
+msgid "Error %s in %s on unknown line, generated by file %s on line %d"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/errors/cli.php:741
+#, php-format
+msgid ""
+"Error %s in %s on unknown line, generated by file %s on line %d in case '%s'"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/php/version/cli.php:118
+msgid "PHP version:"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:242
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:273
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:279
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:283
+#, php-format
+msgid "Code coverage value: %3.2f%%"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:243
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:274
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:254
+#, php-format
+msgid "Class %s: %3.2f%%"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/cli.php:244
+#, php-format
+msgid "%s::%s(): %3.2f%%"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:253
+#, php-format
+msgid "Code coverage value : %3.2f%%"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/coverage/phing.php:255
+#, php-format
+msgid "     ::%s(): %3.2f%%"
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:126
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:131
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:155
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:160
+msgid "Total test duration: unknown."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:137
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/runner/tests/duration/cli.php:166
+#, php-format
+msgid "Total test duration: %s."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:114
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:126
+msgid "Memory usage: unknown."
+msgstr ""
+
+#: admin/vendor/atoum/atoum/tests/units/classes/report/fields/test/memory/cli.php:140
+#, php-format
+msgid "Memory usage: %4.2f Mb."
+msgstr ""
+
+#: admin/views/class-wp-void-mail-admin-view.php:30
+msgid "Stats"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-admin-view.php:34
+msgid "Verifier stats"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-admin-view.php:46
+msgid "Newsletters stats"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-admin-view.php:58
+msgid "Email stats"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-api-view.php:19
+msgid "Quick email verification API"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-api-view.php:22
+msgid "Connected"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-api-view.php:24
+msgid "Not Connected"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-api-view.php:29
+msgid "Submit"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-api-view.php:32
+#, php-format
+msgid "You can get your API key form <a href=\"%s\">here</a>"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-api-view.php:35
+msgid "Verify Your Unverified mail"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-api-view.php:36
+msgid "Verify"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-crawler.php:10
+msgid "Enter the website URL you want to crawl"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-crawler.php:13
+msgid "Crawl"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-mailpoet.php:27
+msgid "Insert emails to your selected mailpoet list"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-mailpoet.php:36
+msgid "You are using mailpoet 2"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-mailpoet.php:51
+#: admin/views/class-wp-void-mail-mailpoet.php:74
+msgid "Insert"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-mailpoet.php:60
+msgid "You are using mailpoet 3"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-mailpoet.php:79
+msgid "mailpoet plugin is not installed or activated"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-text-files.php:14
+msgid "Copy/Paste or type anything to scrap mail from"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-text-files.php:16
+msgid "Fill me up"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-text-files.php:17
+#: admin/views/class-wp-void-mail-text-files.php:25
+msgid "Boom!"
+msgstr ""
+
+#: admin/views/class-wp-void-mail-text-files.php:21
+msgid "Select Single/Multiple Files you want scrap from"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WP Void Mail Scraper"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://wpemailscraper.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "VoidCoders"
+msgstr ""
